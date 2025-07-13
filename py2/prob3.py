@@ -2,5 +2,5 @@
 
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("Smriti i love you")
+engine.say("hey how you doing")
 engine.runAndWait()
