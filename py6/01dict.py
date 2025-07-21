@@ -5,6 +5,7 @@ marks = {
 }
 
 print(marks,type(marks))
+# print(marks[0]) not possible
 print(marks["Harry"])
 
 # marks2=[["Harry", 100],["Parth", 100],["Sammy", 100]]
@@ -16,3 +17,5 @@ a={
     "lst":[1,2,9]
 }
 print(a["lst"])
+# print(a[0])
+print(a["lst"][0])
